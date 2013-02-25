@@ -140,7 +140,7 @@ public class Client {
 			System.out.println("getBAddress4 = "+order.getBAddress2());
 		} catch (HibernateException e) {
 			e.printStackTrace();   
-		}
+		}   
 
 		
 	}
