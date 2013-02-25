@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="conf"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk16">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="E:/workspace/Library/database/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/Library/hibernate/hibernate-commons-annotations-3.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/Library/hibernate/hibernate-core-3.6.9.Final.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/Library/hibernate/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/Library/dom4j/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/Library/ewin/extras-core-1.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/Library/ewin/extras-common-1.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/Library/ewin/extras-coreservice-1.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/Library/ewin/extras-mvc-1.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/Library/logger/slf4j-api-1.6.4.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/Library/logger/slf4j-log4j12-1.6.4.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/Library/logger/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/Library/common/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/Library/common/commons-codec.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/Library/common/commons-collections-3.0.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/Library/common/commons-digester-1.7.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/Library/common/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/Library/common/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/Library/common/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/Library/common/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/Library/jta/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/Library/javassist/javassist-3.11.0.GA.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
