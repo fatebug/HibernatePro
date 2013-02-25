@@ -139,7 +139,7 @@ public class Client {
 			System.out.println("getBAddress3 = "+order.getBAddress2());
 			System.out.println("getBAddress4 = "+order.getBAddress2());
 		} catch (HibernateException e) {
-			e.printStackTrace();
+			e.printStackTrace();   
 		}
 
 		
